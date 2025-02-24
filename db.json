@@ -1,0 +1,364 @@
+{
+  "contact": [
+    {
+      "id": 1,
+      "name": "Esra Akgündoğdu",
+      "position": "Frontend Developer",
+      "company": "Udemig",
+      "phone": "+90 555 444 33 22",
+      "email": "esraakgundogdu@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Mert Yılmaz",
+      "position": "Backend Developer",
+      "company": "TechSoft",
+      "phone": "+90 532 111 22 33",
+      "email": "mertyilmaz@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Zeynep Karaca",
+      "position": "UI/UX Designer",
+      "company": "DesignHub",
+      "phone": "+90 533 222 11 44",
+      "email": "zeynepkaraca@gmail.com"
+    },
+    {
+      "name": "Mehmet Can ",
+      "position": "Full Stack Developer",
+      "company": "Udemig",
+      "phone": "+90 534 333 22 55",
+      "email": "mehmetcanseyhan@gmail.com",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "Burak Demir",
+      "position": "Data Scientist",
+      "company": "DataWorks",
+      "phone": "+90 535 444 33 66",
+      "email": "burakdemir@gmail.com"
+    },
+    {
+      "id": 6,
+      "name": "Elif Şahin",
+      "position": "Software Engineer",
+      "company": "CodeMasters",
+      "phone": "+90 536 555 44 77",
+      "email": "elifsahin@gmail.com"
+    },
+    {
+      "id": 7,
+      "name": "Emre Özkan",
+      "position": "DevOps Engineer",
+      "company": "CloudNet",
+      "phone": "+90 537 666 55 88",
+      "email": "emreozkan@gmail.com"
+    },
+    {
+      "id": 8,
+      "name": "Gizem Yıldız",
+      "position": "Mobile Developer",
+      "company": "AppSolutions",
+      "phone": "+90 538 777 66 99",
+      "email": "gizemyildiz@gmail.com"
+    },
+    {
+      "id": 9,
+      "name": "Hakan Yılmaz",
+      "position": "Cyber Security Expert",
+      "company": "SecureTech",
+      "phone": "+90 539 888 77 00",
+      "email": "hakanyilmaz@gmail.com"
+    },
+    {
+      "id": 10,
+      "name": "Deniz Arslan",
+      "position": "Machine Learning Engineer",
+      "company": "AI Labs",
+      "phone": "+90 540 999 88 11",
+      "email": "denizarslan@gmail.com"
+    },
+    {
+      "id": 11,
+      "name": "Ece Korkmaz",
+      "position": "System Administrator",
+      "company": "NetSolutions",
+      "phone": "+90 541 101 99 22",
+      "email": "ecekorkmaz@gmail.com"
+    },
+    {
+      "id": 12,
+      "name": "Furkan Kaya",
+      "position": "Game Developer",
+      "company": "GameStudio",
+      "phone": "+90 542 202 88 33",
+      "email": "furkankaya@gmail.com"
+    },
+    {
+      "id": 13,
+      "name": "Büşra Aydın",
+      "position": "Embedded Systems Engineer",
+      "company": "TechEmbed",
+      "phone": "+90 543 303 77 44",
+      "email": "busraaydin@gmail.com"
+    },
+    {
+      "name": "Muhammed Karaaslan",
+      "position": "Frontend Developer",
+      "company": "Emaartech",
+      "phone": "5556667898",
+      "email": "muhammed@gmail.com",
+      "id": 16
+    },
+    {
+      "name": "Nefel Bakşi",
+      "position": "React Developer",
+      "company": "Mimcode",
+      "phone": "55566678467",
+      "email": "nefelbakşi@gmail.com",
+      "id": 17
+    },
+    {
+      "name": "Selin Çevik",
+      "position": "Frontend Developer",
+      "company": "Udemig",
+      "phone": "+90 555 666 32 44",
+      "email": "selinçevik@gmail.com",
+      "id": 18
+    },
+    {
+      "name": "Mervenur Geçici",
+      "position": "React Developer",
+      "company": "Mimcode",
+      "phone": "55566678467",
+      "email": "mervenur@gmail.com",
+      "id": 19
+    },
+    {
+      "name": "Esra Salur",
+      "position": "Backend Frontend",
+      "company": "Didiyos",
+      "phone": "55566678467",
+      "email": "esra@gmail.com",
+      "id": 21
+    },
+    {
+      "name": "Yusuf YAMAN",
+      "position": "React Developer",
+      "company": "Emaartech",
+      "phone": "5556667898",
+      "email": "yusufyamanjob@gmail.com",
+      "id": 22
+    },
+    {
+      "name": "Mert Yılmaz",
+      "position": "Backend Developer",
+      "company": "TechSoft",
+      "phone": "+90 532 111 22 33",
+      "email": "mertyilmaz@gmail.com",
+      "id": 23
+    },
+    {
+      "name": "Mert Yılmaz",
+      "position": "Backend Developer",
+      "company": "TechSoft",
+      "phone": "+90 532 111 22 33",
+      "email": "mertyilmaz@gmail.com",
+      "id": 24
+    },
+    {
+      "name": "mervenur gecici",
+      "position": "Backend Developer",
+      "company": "Udemig",
+      "phone": "+90 532 111 22 33",
+      "email": "mervenur@gmail.com",
+      "id": 25
+    },
+    {
+      "name": "mervenur gecici",
+      "position": "Backend Developer",
+      "company": "Udemig",
+      "phone": "+90 532 111 22 33",
+      "email": "mervenur@gmail.com",
+      "id": 26
+    },
+    {
+      "name": "mervenur gecici",
+      "position": "Backend Developer",
+      "company": "Udemig",
+      "phone": "+90 532 111 22 33",
+      "email": "mervenur@gmail.com",
+      "id": 27
+    },
+    {
+      "name": "mervenur gecici",
+      "position": "Backend Developer",
+      "company": "Udemig",
+      "phone": "+90 532 111 22 33",
+      "email": "mervenur@gmail.com",
+      "id": 28
+    },
+    {
+      "name": "mervenur gecici",
+      "position": "Backend Developer",
+      "company": "Udemig",
+      "phone": "+90 532 111 22 33",
+      "email": "mervenur@gmail.com",
+      "id": 29
+    },
+    {
+      "name": "mervenur gecici",
+      "position": "Backend Developer",
+      "company": "Udemig",
+      "phone": "+90 532 111 22 33",
+      "email": "mervenur@gmail.com",
+      "id": 30
+    },
+    {
+      "name": "mervenur gecici",
+      "position": "Backend Developer",
+      "company": "Udemig",
+      "phone": "+90 532 111 22 33",
+      "email": "mervenur@gmail.com",
+      "id": 31
+    },
+    {
+      "name": "mervenur gecici",
+      "position": "Backend Developer",
+      "company": "Udemig",
+      "phone": "+90 532 111 22 33",
+      "email": "mervenur@gmail.com",
+      "id": 32
+    },
+    {
+      "name": "mervenur gecici",
+      "position": "Backend Developer",
+      "company": "Udemig",
+      "phone": "+90 532 111 22 33",
+      "email": "mervenur@gmail.com",
+      "id": 33
+    },
+    {
+      "name": "mervenur gecici",
+      "position": "Backend Developer",
+      "company": "Udemig",
+      "phone": "+90 532 111 22 33",
+      "email": "mervenur@gmail.com",
+      "id": 34
+    },
+    {
+      "name": "mervenur gecici",
+      "position": "Backend Developer",
+      "company": "Udemig",
+      "phone": "+90 532 111 22 33",
+      "email": "mervenur@gmail.com",
+      "id": 35
+    },
+    {
+      "name": "mervenur gecici",
+      "position": "Backend Developer",
+      "company": "Udemig",
+      "phone": "+90 532 111 22 33",
+      "email": "mervenur@gmail.com",
+      "id": 36
+    },
+    {
+      "name": "mervenur gecici",
+      "position": "Backend Developer",
+      "company": "Udemig",
+      "phone": "+90 532 111 22 33",
+      "email": "mervenur@gmail.com",
+      "id": 37
+    },
+    {
+      "name": "mervenur gecici",
+      "position": "Backend Developer",
+      "company": "Udemig",
+      "phone": "+90 532 111 22 33",
+      "email": "mervenur@gmail.com",
+      "id": 38
+    },
+    {
+      "name": "mervenur gecici",
+      "position": "Backend Developer",
+      "company": "Udemig",
+      "phone": "+90 532 111 22 33",
+      "email": "mervenur@gmail.com",
+      "id": 39
+    },
+    {
+      "name": "mervenur gecici",
+      "position": "Backend Developer",
+      "company": "Udemig",
+      "phone": "+90 532 111 22 33",
+      "email": "mervenur@gmail.com",
+      "id": 40
+    },
+    {
+      "name": "mervenur gecici",
+      "position": "Backend Developer",
+      "company": "Udemig",
+      "phone": "+90 532 111 22 33",
+      "email": "mervenur@gmail.com",
+      "id": 41
+    },
+    {
+      "name": "mervenur gecici",
+      "position": "Backend Developer",
+      "company": "Udemig",
+      "phone": "+90 532 111 22 33",
+      "email": "mervenur@gmail.com",
+      "id": 42
+    },
+    {
+      "name": "mervenur gecici",
+      "position": "Backend Developer",
+      "company": "Udemig",
+      "phone": "+90 532 111 22 33",
+      "email": "mervenur@gmail.com",
+      "id": 43
+    },
+    {
+      "name": "mervenur gecici",
+      "position": "Backend Developer",
+      "company": "Udemig",
+      "phone": "+90 532 111 22 33",
+      "email": "mervenur@gmail.com",
+      "id": 44
+    },
+    {
+      "name": "mervenur gecici",
+      "position": "Backend Developer",
+      "company": "Udemig",
+      "phone": "+90 532 111 22 33",
+      "email": "mervenur@gmail.com",
+      "id": 45
+    },
+    {
+      "name": "mervenur gecici",
+      "position": "Backend Developer",
+      "company": "Udemig",
+      "phone": "+90 532 111 22 33",
+      "email": "mervenur@gmail.com",
+      "id": 46
+    },
+    {
+      "name": "mervenur gecici",
+      "position": "Backend Developer",
+      "company": "Udemig",
+      "phone": "+90 532 111 22 33",
+      "email": "mervenur@gmail.com",
+      "id": 47
+    },
+    {
+      "name": "mervenur gecici",
+      "position": "Backend Developer",
+      "company": "Udemig",
+      "phone": "+90 532 111 22 33",
+      "email": "mervenur@gmail.com",
+      "id": 48
+    }
+  ]
+}
