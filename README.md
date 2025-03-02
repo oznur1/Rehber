@@ -11,3 +11,5 @@ It has a user-friendly responsive design.
 • 🗂️ JSON Server – For backend simulation
 • 🎨 SCSS – For a sleek and responsive design
  
+# ScreenShot
+![EkranKayd2025-03-0216 32 23-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/b7d27550-9ee8-4760-a7d1-e82a39c0e9ac)
